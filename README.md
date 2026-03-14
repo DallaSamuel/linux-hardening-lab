@@ -224,6 +224,6 @@ This process mirrors real-world Linux server hardening procedures used by securi
 
 ---
 
-*[github.com/DallaSamuel213](https://github.com/DallaSamuel213)*
+*[github.com/DallaSamuel](https://github.com/DallaSamuel)*
 
 *CyberJKD — Becoming dangerous through fundamentals.*
