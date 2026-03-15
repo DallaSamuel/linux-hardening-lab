@@ -2,7 +2,7 @@
 
 **Target System:** Kali Linux (WSL2 on Windows)  
 **Date:** March 14, 2026  
-**Author:** Samuel Dalla (CyberJKD)  
+**Author:** Dalla Samuel (CyberJKD)  
 **Phase:** Roadmap Phase 1 — Systems Foundation
 
 ---
